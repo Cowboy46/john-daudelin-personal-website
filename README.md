@@ -1,2 +1,4 @@
-# john-daudelin-personal-website
-A one-page, personal bio web page with a contact form -- created using a simple bootstrap template.
+# John Daudelin's Personal Website
+This is a one-page, personal bio web page that I created using a simple bootstrap template called "One Page Wonder" by [Start Bootstrap](http://startbootstrap.com/). I try to keep this page updated, although some of the info on it may be outdated at times.
+
+
