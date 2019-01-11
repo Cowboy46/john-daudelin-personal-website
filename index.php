@@ -190,10 +190,8 @@
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
 
-    <!-- Append date last modified -->
-    <script language="javascript">
-        $('#modified').append(document.lastModified.substring(0,10));
-    </script>
+    <!-- Custom JavaScript -->
+    <script src="js/custom.js"></script>
 
 </body>
 

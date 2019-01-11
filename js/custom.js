@@ -1,0 +1,1 @@
+$('#modified').append(document.lastModified.substring(0,10));
